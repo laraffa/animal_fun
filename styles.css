@@ -1,0 +1,17 @@
+.intro {
+  font-style: italic;
+}
+.title {
+  font-family: cursive;
+}
+img.floaty {
+  float: left;
+}
+.sidebar {
+  width: 30%;
+  text-align: center;
+  background-color: pink;
+}
+.bullet {
+  list-style-type: none;
+}
